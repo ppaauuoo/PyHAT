@@ -19,7 +19,7 @@ class Settings(BaseSettings):
         "title": "Simple Site",
         "description": "A simple htmx and tailwind site built with FastAPI",
         "version": "0.0.1",
-        "default_response_class": HTMLResponse,  # Change default from JSONResponse
+        # "default_response_class": HTMLResponse,  # Change default from JSONResponse
     }
 
     DISABLE_DOCS: bool = True
