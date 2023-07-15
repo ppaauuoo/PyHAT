@@ -3,5 +3,6 @@ jinja2
 jinja2-fragments
 python-multipart
 pytest
-
+typing
 tinydb
+pydantic_settings
