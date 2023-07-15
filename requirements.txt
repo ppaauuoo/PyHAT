@@ -6,4 +6,4 @@ python-multipart
 pytest
 typing
 tinydb
-pydantic-settings
+pydantic
