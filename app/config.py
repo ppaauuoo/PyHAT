@@ -18,7 +18,7 @@ class Settings(BaseSettings):
     FASTAPI_PROPERTIES: dict[str, Any] = {
         "title": "Simple Site",
         "description": "A simple htmx and tailwind site built with FastAPI",
-        "version": "0.0.1",
+        # "version": "0.0.1",
         # "default_response_class": HTMLResponse,  # Change default from JSONResponse
     }
 
