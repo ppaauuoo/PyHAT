@@ -1,4 +1,5 @@
 fastapi[all]
+fastapi.responses
 jinja2
 jinja2-fragments
 python-multipart
